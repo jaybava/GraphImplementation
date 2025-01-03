@@ -91,7 +91,7 @@ javac *.java
 
 Run the Maze Solver:
 
-java DrawMaze maze0.txt
+java Solve maze0.txt
 
 Replace maze0.txt with any other maze definition file.
 
